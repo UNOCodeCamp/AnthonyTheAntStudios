@@ -4,7 +4,7 @@ game.score = 0;
 game.timer = 0;
 game.startTime = null;
 game.isOver = false;
-game.level = 3;
+game.level = 0;
 
 game.start = function()
 {
